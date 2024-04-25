@@ -1,0 +1,12 @@
+.footerContainer{
+    display: flex;
+    justify-content: center;
+    justify-content: baseline;
+    background-color: rgb(198, 218, 218);
+}
+
+
+.footerP{
+    color: grey;
+    font-size: 1.5rem;
+}

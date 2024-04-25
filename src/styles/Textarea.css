@@ -1,0 +1,90 @@
+.maindiv10{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aqua;
+    height: 100vh;
+    
+   
+}
+
+.text{
+    width: 100%;
+    border: 2px solid black;
+    height: auto;
+}
+
+.noteContainer{
+    background-color: blanchedalmond;
+    margin: 2rem;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+
+
+
+.text-div{
+    padding: 4px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    border: none;
+  
+   
+    width: 40rem;
+    border: 2px solid black;
+    
+}
+
+.tTitle{
+    border: none;
+    font-size: 2rem;
+    padding: 1rem;
+    font-weight: bolder;
+   
+    
+}
+
+.tArea{
+    border: none;
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: bolder;
+   
+}
+
+.tB{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 1rem;
+    
+   
+   
+
+}
+
+
+
+
+
+
+
+
+

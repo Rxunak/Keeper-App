@@ -1,0 +1,11 @@
+.headerContainer{
+    width: 100%;
+    display: flex;
+    background-color:#860032;
+}
+
+.headerH1{
+    color: white;
+    margin-left: 3rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
